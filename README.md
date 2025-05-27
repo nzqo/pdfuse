@@ -30,5 +30,5 @@ Run `merge --help` for more.
 Use it, fork it, rewrite it in COBOL — whatever.  
 Just don’t email me.
 
-   (ง⌐■_■)ง🏔  
-   lift | run | overengineer
+>   (ง⌐■_■)ง🏔  
+>   lift | run | overengineer
