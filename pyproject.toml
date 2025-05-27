@@ -1,0 +1,11 @@
+[project]
+name = "pdfuse"
+version = "1.0"
+description = "Command-line tool to fuse PDF files."
+authors = [{ name = "nzqo" }]
+license = { text = "MIT" }
+
+dependencies = ["pypdf"]
+
+[project.scripts]
+fuse = "pdfuse.cli:main"
